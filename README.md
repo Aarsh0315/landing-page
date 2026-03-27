@@ -54,15 +54,16 @@ project/
 
 ## 📸 Preview
 
-(Add screenshot here if you want)
+<img width="2048" height="900" alt="image" src="https://github.com/user-attachments/assets/9cb270e6-0434-4822-a5c0-2e9b8352c519" />
 
----
+<img width="892" height="842" alt="image" src="https://github.com/user-attachments/assets/b061024c-e917-46ef-8782-c4abbe242b8d" />
+
+
+
 
 ## 🔗 Live Demo
 
-(Add your GitHub Pages link here after hosting)
-
----
+https://aarsh0315.github.io/landing-page/
 
 ## 👨‍💻 Author
 
