@@ -55,8 +55,8 @@ project/
 ## 📸 Preview
 
 <img width="2048" height="900" alt="image" src="https://github.com/user-attachments/assets/9cb270e6-0434-4822-a5c0-2e9b8352c519" />
+<img width="2048" height="900" alt="image" src="https://github.com/user-attachments/assets/727f6448-c191-45af-bf1c-8c7cdc9c7bb4" />
 
-<img width="892" height="842" alt="image" src="https://github.com/user-attachments/assets/b061024c-e917-46ef-8782-c4abbe242b8d" />
 
 
 
